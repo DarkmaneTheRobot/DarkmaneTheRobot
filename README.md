@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Darkmane, a 21 year old Developer from the UK
+I'm Darkmane, a 23 year old Developer from the UK
 
 - 🔭 I’m currently working on Wynter, a discord furry bot
 - 🌱 I’m currently learning python
